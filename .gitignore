@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# React
+node_modules/
+dist/
+dist-ssr/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# ML dataset
+ml/data/public_reviews_dataset_cleaned.csv
+ml/training/public_reviews_dataset_cleaned.csv
+*.csv
